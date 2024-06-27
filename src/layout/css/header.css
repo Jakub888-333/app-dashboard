@@ -1,0 +1,14 @@
+#header{
+    background-color: #1976d2;
+    height: 100px;
+    display: flex;
+    align-items: center;
+}
+
+#heading{
+    font-size: 50px;
+    color: #fff;
+    font-weight: bold;
+    letter-spacing: 1px;
+    padding-left: 10px;
+}
