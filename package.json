@@ -1,5 +1,4 @@
 {
-  "homepage": "https://github.com/Jakub888-333/dashboard-app.git",
   "name": "my-first-react-app",
   "version": "0.1.0",
   "private": true,
@@ -25,8 +24,6 @@
     "xlsx": "^0.18.5"
   },
   "scripts": {
-    "predeploy": "yarn build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
